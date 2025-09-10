@@ -32,15 +32,15 @@ I am a Computer Science student passionate about:
 ---
 
 ## How to Access
-1. Visit: [https://yourusername.github.io/](https://lorraine14.github.io/Lorraine.github.io/)
+1. Visit: [My Portfolio](https://lorraine14.github.io/Lorraine.github.io/)
 2. Explore different sections via the navigation bar.
 
 ---
 
 ## Contact Me
 - **Email:** lorrainetsakani1@gmail.com  
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/tsakane-lorraine-ngwenya-b42a5a272/)  
-- **GitHub:** [Your GitHub](https://github.com/Lorraine14)  
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/tsakane-lorraine-ngwenya-b42a5a272/)  
+- **GitHub:** [GitHub](https://github.com/Lorraine14)  
 
 ---
 
